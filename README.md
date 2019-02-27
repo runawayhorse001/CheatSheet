@@ -5,10 +5,12 @@ This is a shared repository for my Cheat Sheets.
 
 ## **1. Cheat Sheet for PySpark**
 
-![pyspark](cheatSheet_pyspark.pdf)
+![latex](images/cheatSheet_pyspark1.jpg)
+![Page 2](images/cheatSheet_pyspark2.jpg)
 
 ## **2. Cheat Sheet for LaTex**
 
-![latex](cheatSheet_latex1.pdf)
+![Page 1](images/cheatSheet_latex1.jpg)
+![Page 2](images/cheatSheet_latex2.jpg)
 
 
